@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Jewellery",
+    "price": 35367,
+    "imageUrl": "https://pixabay.com/get/gd7e61071ab4590e93a2116b236e1128fc625979f0ae6f1e205c023abf2dd5d0944d60e035add3370e5b94a8f55b3e444f936cb66410e5d841f391254d9231eca_1280.jpg",
+    "description": "Handcrafted with precision and passion.",
+    "category": "Jewellery"
+  },
+  {
+    "id": 2,
+    "name": "Fine Jewellery",
+    "price": 42427,
+    "imageUrl": "https://pixabay.com/get/g2848abb1c160b4da6dee3141a12ed1d70171ae9b8b0acbf431417e60029c759ec2166e6b1677b134c7454ce3a701eb7994c5aa0c14446c8a46ed98b583b6dbe2_1280.jpg",
+    "description": "Modern design with classic appeal.",
+    "category": "Jewellery"
+  },
+  {
+    "id": 3,
+    "name": "Christmas",
+    "price": 17446,
+    "imageUrl": "https://pixabay.com/get/g11d0f1d9bab42bfd7bf49d41963b58feaaa4e3fbf16a4b791c506c9ff89ea7971af8d9352a203c926f5e52260e275a82799e515d7ecbf123748654369b554c77_1280.jpg",
+    "description": "Handcrafted with precision and passion.",
+    "category": "Jewellery"
+  },
+  {
+    "id": 4,
+    "name": "Silver",
+    "price": 39204,
+    "imageUrl": "https://pixabay.com/get/g56c9af7de2731cfbc2d212417454f5db38c448c397902bd60f9daf5a8e112e2941996ff930719e40c76a91c71553dd06e8edf70c1c0587a5efce4b7e2297f132_1280.jpg",
+    "description": "Elegant and timeless craftsmanship.",
+    "category": "Bracelet"
+  },
+  {
+    "id": 5,
+    "name": "Accessory",
+    "price": 21782,
+    "imageUrl": "https://pixabay.com/get/g0ec23bf99de9d3482725affd56df08679fc61f1c5dcbb0a789d0babf17ab36c0aa15005c81d9d644b9f4af80d5bd4004b5e2ac6fb0bca90f6e2a6302a558d024_1280.jpg",
+    "description": "Luxurious feel with minimalist style.",
+    "category": "Necklace"
+  },
+  {
+    "id": 6,
+    "name": "Woman",
+    "price": 15406,
+    "imageUrl": "https://pixabay.com/get/g2ddfbf8a8894dd6c172b08db17eecfff023ec16aa014f4b3feebda1eb01c4086cf30325a973f3c45b24d0f50998572038bddb1a4fca1cd95c782a45e38596423_1280.jpg",
+    "description": "Luxurious feel with minimalist style.",
+    "category": "Bracelet"
+  },
+  {
+    "id": 7,
+    "name": "Ruby",
+    "price": 34149,
+    "imageUrl": "https://pixabay.com/get/g1a30570146569540bf13f74ba1e43079060abff078b3ea399696f2a5a939817244c86f59341a713077494dd72907545bb63f6364a47610817a7ffe1a4e1fd184_1280.jpg",
+    "description": "Handcrafted with precision and passion.",
+    "category": "Ring"
+  },
+  {
+    "id": 8,
+    "name": "Christmas",
+    "price": 21767,
+    "imageUrl": "https://pixabay.com/get/g2371ccb5e14b8a2bdab9006df7e9d09ccb4096c723f5d4e76a0af41bc26f0e22476dda43e65c098d496f94d1abb9e46939048610b9c2f755ef924bbbe1a14f5f_1280.jpg",
+    "description": "Elegant and timeless craftsmanship.",
+    "category": "Jewellery"
+  },
+  {
+    "id": 9,
+    "name": "Jewelry",
+    "price": 15402,
+    "imageUrl": "https://pixabay.com/get/g8e9c8f243df1ca8007701791fdc801645630ff27ec19df170478841f4d9a1a94042f811e6589b94e9a9a80a4e8b6e2ed547a40c930f75d7ff6776f0762d35914_1280.jpg",
+    "description": "Handcrafted with precision and passion.",
+    "category": "Jewellery"
+  },
+  {
+    "id": 10,
+    "name": "Peridot",
+    "price": 11194,
+    "imageUrl": "https://pixabay.com/get/g7e410edbc33d8750b86d34a87b24296377d78ee129252d99899b7738b9b07f0288471159885f46e9450a6c424d9383e5ef09aded9a2f1b7a9d5abc00cebb49fa_1280.jpg",
+    "description": "Modern design with classic appeal.",
+    "category": "Jewellery"
+  },
+  {
+    "id": 11,
+    "name": "Goldsmith",
+    "price": 33665,
+    "imageUrl": "https://pixabay.com/get/g4c8a8f348e94630219341c73606b08c755e03cfacb1b8d94ed8b68947c6f1457ffccc756a68fe3c66dc16e575d4275fd655d09b2e5d7590160776f15cc1de14f_1280.jpg",
+    "description": "Perfect gift for any occasion.",
+    "category": "Jewellery"
+  },
+  {
+    "id": 12,
+    "name": "Pearl",
+    "price": 59835,
+    "imageUrl": "https://pixabay.com/get/gb93245f2b61bc7fec6d29e8c8d545d18d29076d381cb49920c1946ac3ef552a7a6a1fbdfab1016cc377ea15602a4f58b269667aab2a166bcefa200d4144f2354_1280.jpg",
+    "description": "Luxurious feel with minimalist style.",
+    "category": "Jewellery"
+  },
+  {
+    "id": 13,
+    "name": "Jewellery",
+    "price": 5917,
+    "imageUrl": "https://pixabay.com/get/gb62b6038e67d4a65a8b695c7c75b6021adc331b99f2b37cfe388c7736ab576b424fc49a447f722f14d825afb8f9251cd5a4b931f483f9dd57df262d003a3f239_1280.jpg",
+    "description": "Luxurious feel with minimalist style.",
+    "category": "Jewellery"
+  },
+  {
+    "id": 14,
+    "name": "Pearls",
+    "price": 9866,
+    "imageUrl": "https://pixabay.com/get/g54aa3cabccc8d5c0aa15da0d4f5e62e4d1d47267063054c80627a89e6f69348e9e941d9f4b4fce2c6a719c5591dfdb26cf18c4932328936cd8c6df8e7674447d_1280.jpg",
+    "description": "Perfect gift for any occasion.",
+    "category": "Chain"
+  },
+  {
+    "id": 15,
+    "name": "Plastic",
+    "price": 34013,
+    "imageUrl": "https://pixabay.com/get/g4b507429694c3c1b9c26df30177ab843432b573d4b4f9a2435951001fea81149b3c2c8dc47ad171b503a3535d0182f923e01cc0fdc0fca0eb81af2362c8f8f10_1280.jpg",
+    "description": "Modern design with classic appeal.",
+    "category": "Jewellery"
+  },
+  {
+    "id": 16,
+    "name": "Cameo",
+    "price": 56272,
+    "imageUrl": "https://pixabay.com/get/g5a2dc679a4b3685dc77456cebe06aa33adea9b9abfdce075548ee03883a8125ae106556bb4473e60be85aa9b6ef996378a3d2724c5a85d14ad7171936135ff4b_1280.jpg",
+    "description": "Perfect gift for any occasion.",
+    "category": "Necklace"
+  },
+  {
+    "id": 17,
+    "name": "Chain",
+    "price": 4084,
+    "imageUrl": "https://pixabay.com/get/g52885ed92f40ed0e143b55b8466c32ed2b20221594b904398aedd95f92fc1108f501950a90235fcdcdf10554c7e7c5a5a3340a7b8272fb8f0e6818927b4e00be_1280.jpg",
+    "description": "Luxurious feel with minimalist style.",
+    "category": "Chain"
+  },
+  {
+    "id": 18,
+    "name": "Jewellery",
+    "price": 44075,
+    "imageUrl": "https://pixabay.com/get/g9fc8e5df09dd165b5216d7ca746cb82b13d2e43538ca391bb7150423ef1b0be971caec25d448a7525710880c7425d2189038868d5255deba8ec4b7b9dab39195_1280.jpg",
+    "description": "Handcrafted with precision and passion.",
+    "category": "Necklace"
+  },
+  {
+    "id": 19,
+    "name": "Opal",
+    "price": 26845,
+    "imageUrl": "https://pixabay.com/get/gb6ab85520f376d86b18148e92ef4af3d031006593980c60373d03ca93acae31969f76b080830bd0cc82fcebd4515f525d4d7b3135b3707ecdfa83f80830d853f_1280.jpg",
+    "description": "Perfect gift for any occasion.",
+    "category": "Jewellery"
+  },
+  {
+    "id": 20,
+    "name": "Jewelry",
+    "price": 9664,
+    "imageUrl": "https://pixabay.com/get/g9e00c337a1ad3f4150720e140883700eb7e0cbc55967bb81851e44b3300f9df8a72549bc4bb8ef19223e4aee71c983753548edc8fae429df61d21c28a0e2e5e0_1280.jpg",
+    "description": "Elegant and timeless craftsmanship.",
+    "category": "Jewellery"
+  }
+]
