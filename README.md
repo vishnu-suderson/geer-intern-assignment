@@ -41,7 +41,7 @@ npm run dev
 yarn dev
 ```
 <video width="320" height="240" autoplay>
-  <source src="https://github.com/vishnu-suderson/geer-intern-assignment/screen.mp4" type="video/mp4">
+  <source src="./screen.mp4" type="video/mp4">
 </video>
 
 Open [http://localhost:3000/products](http://localhost:3000/products) in your browser to view the app. The page auto‑reloads when you make changes.
