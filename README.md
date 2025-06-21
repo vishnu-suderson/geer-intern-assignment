@@ -40,8 +40,13 @@ npm run dev
 # or
 yarn dev
 ```
+<video src="/screen.mp4" width="640" height="360" controls>
+  Your browser does not support the video tag. 
+  You can <a href="/screen.mp4">download the video here</a>.
+</video>
+
 <video width="320" height="240" autoplay>
-  <source src="./screen.mp4" type="video/mp4">
+  <source src="/screen.mp4" type="video/mp4">
 </video>
 
 Open [http://localhost:3000/products](http://localhost:3000/products) in your browser to view the app. The page auto‑reloads when you make changes.
