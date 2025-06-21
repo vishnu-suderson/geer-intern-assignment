@@ -40,8 +40,9 @@ npm run dev
 # or
 yarn dev
 ```
+![Watch the video](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/thumbnail.jpg)](https://github.com/vishnu-suderson/geer-intern-assignment/screen.mp4)
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the app. The page auto‑reloads when you make changes.
+Open [http://localhost:3000/products](http://localhost:3000/products) in your browser to view the app. The page auto‑reloads when you make changes.
 
 ### Building for Production
 
