@@ -1,6 +1,10 @@
 # Naksh Jewel E‑commerce Next.js Project
 
 A responsive jewellery e‑commerce frontend built with Next.js and Tailwind CSS, showcasing a product listing page and product detail page. Designed for luxury jewellery brands, with hero banner, filter chips, masonry grid, cart integration, and more.
+---
+
+https://github.com/user-attachments/assets/07f0c416-ea20-40a4-aba2-5164d05b0985
+
 
 ---
 
@@ -40,9 +44,7 @@ npm run dev
 # or
 yarn dev
 ```
-<video src="/screen.mp4" width="640" height="360" controls>
-  You can <a href="/screen.mp4">download the video here</a>.
-</video>
+
 
 Open [http://localhost:3000/products](http://localhost:3000/products) in your browser to view the app. The page auto‑reloads when you make changes.
 
